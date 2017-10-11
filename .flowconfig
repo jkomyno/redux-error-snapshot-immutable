@@ -1,0 +1,14 @@
+[ignore]
+
+[include]
+
+[libs]
+<PROJECT_ROOT>/flow-typed
+<PROJECT_ROOT>/node_modules/flow/
+
+[lints]
+
+[options]
+
+[version]
+0.55.0

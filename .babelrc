@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "flow",
+    ["env", {
+      "targets": {
+        "node": "6.11.3"
+      }
+    }]
+  ],
+  "plugins": [
+    "minify-constant-folding",
+    "transform-object-rest-spread"
+  ]
+}
