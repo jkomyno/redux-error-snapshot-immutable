@@ -1,6 +1,6 @@
 {
   "name": "redux-error-snapshot-immutable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Redux thunk and Immutable utility that aims to ease the process of retrying last failed action",
   "main": "./lib/index.js",
   "scripts": {
